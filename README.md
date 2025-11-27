@@ -2,7 +2,7 @@
 
 ## A torch library for V
 
-V-Torch is a deep learning library for the [V programming language](vlang.io).
+V-Torch is a deep learning library for the [V programming language](https://vlang.io/).
 
 ## Roadmap & Implementation Plan
 
