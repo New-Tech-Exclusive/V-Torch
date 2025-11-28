@@ -40,7 +40,7 @@ The development is prioritized as follows to reach a working prototype:
 The planned directory structure for the library:
 
 ```
-V-lib/
+vtorch/
 ├─ tensor/       # Core Tensor struct + arithmetic + broadcasting
 ├─ autograd/     # Backward engine, DAG, Function interface
 ├─ nn/           # Module interface, Linear, Conv, activations, loss
